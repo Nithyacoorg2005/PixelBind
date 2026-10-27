@@ -1,4 +1,4 @@
-# PixelBind — PNG to PDF Utility
+# PixelBind - PNG to PDF Utility
 
 **PixelBind** is a lightweight Python desktop utility that converts single or multiple PNG images into a clean, multi-page PDF document. It automatically handles PNG transparency (`RGBA`) by flattening the alpha channel onto a solid white `RGB` background before compilation.
 
